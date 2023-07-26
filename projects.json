@@ -1,0 +1,63 @@
+[
+  {
+    "id": 4,
+    "title": "SnapSchool Web App",
+    "image": "https://i.ibb.co/c6hLJ5c/screencapture-snapschool-netlify-app-2023-06-20-12-15-08.png",
+    "info": "SnapSchool is a single-page Photography Course Selling web app with a minimalistic UI and fast loading time. Users can log in, enroll in courses, and make credit card purchases. Admins can manage classes, users, and assign instructors. The front-end uses React, React Router Dom, Daisy UI, Tailwind, and CSS3. The back-end includes Firebase Auth, MongoDB, Express.js, and React Stripe. Additional packages like React Hook Form, React Awesome Reveal, React Helmet, and React Spinner enhance the user experience",
+    "category": "full-stack",
+    "liveSite": "https://snapschool.netlify.app/",
+    "client": "https://github.com/Shafaet-j/snapSchool-client",
+    "server": "https://github.com/Shafaet-j/snapSchool-server"
+  },
+  {
+    "id": 1,
+    "title": "Restro Recipe web App",
+    "image": "https://i.ibb.co/S3KJXgT/restro.png",
+    "info": "Restro food is a single-page Restaurant/Food recipe web app with a minimalistic UI. Users can log in, browse food recipes, and learn cooking methods. The front-end utilizes React, React Router Dom, Daisy UI, Tailwind, and CSS3. The back-end uses Firebase Auth and Express.js for user authentication. It provides a quick loading time and seamless user experience.",
+    "category": "full-stack",
+    "liveSite": "https://restro-95885.web.app/",
+    "client": "https://github.com/Shafaet-j/restro-client",
+    "server": "https://github.com/Shafaet-j/restro-server"
+  },
+  {
+    "id": 3,
+    "title": "Turbo Toy web App",
+    "image": "https://i.ibb.co/vYc8Tc1/heroic.png",
+    "info": "Turbo Toy is a single-page Children Toys web app with a minimalistic UI. Users can log in, create, update, and delete product listings. The front-end uses React, React Router Dom, Daisy UI, Tailwind, and CSS3. The back-end incorporates Firebase Auth, MongoDB, and Express.js. It ensures quick loading times and a seamless user experience.",
+    "category": "full-stack",
+    "liveSite": "https://heroic-toy.web.app/",
+    "client": "https://github.com/Shafaet-j/heroic-toy-client",
+    "server": "https://github.com/Shafaet-j/heroic-toy-server"
+  },
+
+  {
+    "id": 2,
+    "title": "Job Hunter",
+    "image": "https://i.ibb.co/Vtk7C17/jobhunter.png",
+    "info": "This is the description for Project 2.",
+    "category": "front-end",
+    "liveSite": "https://job-hunterr.netlify.app/",
+    "client": "",
+    "server": ""
+  },
+  {
+    "id": 5,
+    "title": "Project 5",
+    "image": "project5.jpg",
+    "info": "This is the description for Project 5.",
+    "category": "front-end",
+    "liveSite": "",
+    "client": "",
+    "server": ""
+  },
+  {
+    "id": 6,
+    "title": "Project 6",
+    "image": "project6.jpg",
+    "info": "This is the description for Project 6.",
+    "category": "front-end",
+    "liveSite": "",
+    "client": "",
+    "server": ""
+  }
+]
